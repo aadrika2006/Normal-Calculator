@@ -1,0 +1,76 @@
+Calculator Using JavaScript and DOM
+📌 Project Overview
+
+This project is a basic web-based calculator built using HTML, CSS, and JavaScript. It performs standard arithmetic operations such as addition, subtraction, multiplication, and division. The calculator uses DOM (Document Object Model) to handle user input and dynamically update the display without refreshing the page.
+
+🚀 Features
+
+Addition, subtraction, multiplication, and division
+
+Real-time result display
+
+Clear (C) functionality
+
+Decimal number support
+
+Simple and user-friendly interface
+
+🛠️ Technologies Used
+
+HTML – Structure of the calculator
+
+CSS – Styling and layout
+
+JavaScript – Logic and calculations
+
+DOM – Accessing and updating HTML elements
+
+📂 Project Structure
+calculator/
+│
+├── index.html
+├── style.css
+└── script.js
+
+⚙️ How It Works (DOM Usage)
+
+Button clicks are handled using event attributes (onclick)
+
+JavaScript accesses the display using document.getElementById()
+
+Input values are added dynamically to the display
+
+Calculations are performed and results are shown instantly by updating DOM elements
+
+▶️ How to Run the Project
+
+Download or clone the project
+
+Open index.html in any modern web browser
+
+Start using the calculator
+
+🎯 Learning Outcomes
+
+Understanding DOM manipulation
+
+Handling events in JavaScript
+
+Implementing basic arithmetic logic
+
+Building interactive web applications
+
+📌 Future Enhancements
+
+Keyboard input support
+
+Error handling
+
+Scientific calculator functions
+
+Improved UI design
+
+👤 Author
+Aadrika Awasthi 
+
+Rika
